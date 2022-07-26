@@ -1,0 +1,38 @@
+.popup{
+    text-align: center;
+    background-color: #FF5722;
+    border-radius: 10%;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+.formGroup{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 5px 100px;
+}
+
+label{
+    font-size: 1.3em;
+    font-weight:500;
+}
+
+input{
+    height: 35px;
+}
+.formControl{
+    font-size: 1.1em;
+    font-weight:550;
+}
+
+.submitAvailability{
+    margin-top:5px;
+    height: 35px;
+    border-radius: 5px;
+    background: #3c4146ab;
+    font-size: 1em;
+}
